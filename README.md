@@ -5,5 +5,6 @@ A JSON of Apple device list.
 
 ## Reference
 
-https://theapplewiki.com/wiki/Models
-https://support.apple.com/en-us/HT201296
+- https://theapplewiki.com/wiki/Models
+- https://support.apple.com/en-us/HT201296
+- https://snappify.com/
